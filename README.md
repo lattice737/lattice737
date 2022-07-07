@@ -3,7 +3,9 @@
 
 - 🔭 I’m currently working on **a personal website**
 
-- 🌱 I’m currently learning **java**
+- 🌱 I’m currently learning **Java**
+
+- 💬 Ask me about **machine learning & automation**
 
 - 📫 How to reach me **nedwardmartinez@gmail.com**
 
