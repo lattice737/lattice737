@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nicholas</h1>
+<h1 align="center">Welcome 👋 I'm Nicholas</h1>
 <h3 align="center">A curious scientific developer in Dallas, Texas</h3>
 
 - 🔭 I’m currently working on **a personal website**
