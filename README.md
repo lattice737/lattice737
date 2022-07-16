@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **a personal website**
 
-- 🌱 I’m currently learning **Java & test-driven development**
+- 🌱 I’m currently learning **front-end development & CI/CD**
 
 - 💬 Ask me about **machine learning & automation**
 
