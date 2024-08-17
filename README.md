@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Nicholas</h1>
-<h3 align="center">A curious early-career computational scientist</h3>
+<h3 align="center">A curious, early-career computational scientist</h3>
 
-- 🔨 I'm currently employed as **an automation engineer**
+- 🔨 I'm currently employed as **a Python developer**
 
 - 🌱 I’m currently learning **C**
 
